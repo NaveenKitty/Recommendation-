@@ -261,8 +261,7 @@ print("################ Content Based System - metadata #############")
 print("Recommendations for The Dark Knight Rises")
 print(get_recommendations("The Dark Knight Rises", cosine_sim2))
 print()
-print("Recommendations for Avengers")
-print(get_recommendations("The Avengers", cosine_sim2))
+
 
 
 # In[ ]:
